@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Érica Sobral 👋
   <div style="display: inline_block">
-  💼 FrontEnd Engineer no Itaú Unibanco
   📌 São Paulo
+  💼 FrontEnd Engineer
   </div>
   
 <br />
