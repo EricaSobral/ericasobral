@@ -1,4 +1,4 @@
-### Olá! Eu sou a Érica Sobral 👋
+### Olá Mundo! Eu sou a Érica👋
   <div style="display: inline_block">
   📌 São Paulo
   💼 FrontEnd Engineer
