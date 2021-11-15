@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou a Érica👋
+### Olá! Eu sou a Érica👋
   <div style="display: inline_block">
   📌 São Paulo
   💼 FrontEnd Engineer
